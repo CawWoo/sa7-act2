@@ -8,5 +8,6 @@ def safe_divide a,b
   end
 end
 
+puts
 puts safe_divide(10, 2)
 puts safe_divide(5, 0)
